@@ -1,7 +1,7 @@
 ﻿﻿/*****************************************************************
 Program Name: BankAccount
 Description : A bank account application where the user can deposit, withdraw and view account summary.
-Programmer : Juanita Darns
+Programmer : Peter Kennedy
 Date : 7/17/2021
 ******************************************************************/
 
